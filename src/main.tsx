@@ -3,8 +3,7 @@ import ReactDOM from 'react-dom/client';
 
 import DefaultLayout from './app/layouts/Default/Default.layout';
 import RoutesApp from './app/routes';
-import './index.css';
-import 'antd/dist/antd.css';
+import './index.less';
 import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.createRoot(
